@@ -1,9 +1,3 @@
-/*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 (function($) {
 
 	var	$window = $(window),
@@ -14,7 +8,6 @@
 		$main = $('#main'),
 		$navPanelToggle, $navPanel, $navPanelInner;
 
-	// Breakpoints.
 		breakpoints({
 			default:   ['1681px',   null       ],
 			xlarge:    ['1281px',   '1680px'   ],
@@ -25,9 +18,9 @@
 			xxsmall:   [null,       '360px'    ]
 		});
 
-	/**
-	 * Applies parallax scrolling to an element's background image.
-	 * @return {jQuery} jQuery object.
+	/*
+	  Applies parallax scrolling to an element's background image.
+	  @return {jQuery} jQuery object.
 	 */
 	$.fn._parallax = function(intensity) {
 
