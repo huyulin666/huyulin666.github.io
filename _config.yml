@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+favicon:
+  small: /images/1.jfif
+  medium: /images/1.jfif
