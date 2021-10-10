@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 favicon:
-  small: /images/1.jfif
-  medium: /images/1.jfif
+  small: /images/1.jpg
+  medium: /images/1.jpg
 canvas_nest:
   enable: true
   onmobile: true # Display on mobile or not
